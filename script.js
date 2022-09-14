@@ -15,17 +15,17 @@ console.log(str);
 
 var str = prompt ('10+16=?')
 
-console.log('  ответ 26'); 
+console.log('  ответ '+ (10+16)); 
 
 var str = prompt ('10-1=?')
 
-console.log('  ответ 9'); 
+console.log('  ответ '+(10-1)); 
 
 var str = prompt ('2*2=?')
 
-console.log('  ответ 4');
+console.log('  ответ '+ 2*2);
 
 var str = prompt ('16/2=?')
 
-console.log('  ответ 8');
+console.log('  ответ '+  16/2);
 
